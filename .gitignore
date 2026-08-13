@@ -48,6 +48,8 @@
 /deploy/helm/**/charts/
 
 **/.idea/
+**/.gram/
+**/.zed/
 **/*.iml
 **/*.swo
 **/*.swp
